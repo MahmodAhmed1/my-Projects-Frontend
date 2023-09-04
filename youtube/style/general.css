@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 22px;
+    font-family: roboto;
+    margin-top: 57px;
+    margin-left: 74px;
+    background-color: rgb(250, 250, 250);
+}
+
+p{
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
